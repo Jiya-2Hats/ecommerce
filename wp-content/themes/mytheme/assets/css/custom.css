@@ -1,0 +1,98 @@
+/*********************************************************************************
+
+	Template Name: Boighor Bookshop Responsive Bootstrap4 Template  
+	Description: Template description
+	Version: 1.0
+	Note: This is custom css. All custom styles (user styles) declare here.
+
+**********************************************************************************/
+
+#faq_question {
+  padding: 3px 8px;
+  font-size: 1.7em;
+  line-height: 100%;
+  height: 1.7em;
+  width: 100%;
+  outline: 0;
+  margin: 0 0 3px;
+  background-color: #fff;
+}
+
+.display-inline-flex {
+  display: inline-flex;
+}
+
+.woocommerce form .form-row input.input-text,
+.woocommerce form .form-row textarea {
+  height: 40px;
+  background: #fff none repeat scroll 0 0;
+  border: 1px solid #e1e1e1;
+  width: 100%;
+  padding: 0 10px;
+}
+
+.cartFooterButton {
+  background: #fff none repeat scroll 0 0;
+  border-radius: 5px;
+  display: block;
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  height: 50px;
+  line-height: 50px;
+  padding: 0 26px;
+  text-transform: capitalize;
+  transition: all 0.3s ease 0s;
+  border: none;
+}
+
+.cartFooterButton:hover {
+  background: #e59285 none repeat scroll 0 0;
+  color: #fff;
+}
+
+.menu-block a {
+  color: #333;
+  display: block;
+  font-size: 12px !important;
+  line-height: 30px;
+  font-weight: 400 !important;
+  padding: 0;
+  text-transform: capitalize !important;
+  transition: all 0.3s ease 0s;
+}
+
+.woocommerce .widget_price_filter .ui-slider .ui-slider-range,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle {
+  background-color: black;
+}
+.woocommerce .widget_price_filter .price_slider_wrapper .ui-widget-content {
+  background-color: #ededed;
+}
+.woocommerce #respond input#submit,
+.woocommerce a.button,
+.woocommerce button.button,
+.woocommerce input.button {
+  background-color: black;
+  color: white;
+}
+
+.wedget__tag {
+  padding-top: 23%;
+}
+
+.widgettitle {
+  font-size: 14px;
+}
+.blog-sidebar-content {
+  padding-left: 1em;
+}
+
+.product__info__detailed {
+  padding-bottom: 2em;
+}
+
+.price--filter,
+.price__output--wrap {
+  float: left;
+}
